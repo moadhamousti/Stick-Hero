@@ -2,7 +2,6 @@
 
 ### Stick hero game like in the android using :  
 
-
 ☑️ - HTML. 
 
 ☑️ - CSS.
