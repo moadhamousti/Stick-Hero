@@ -1,6 +1,6 @@
 # Stick Hero Game : 🐱‍👤
 
-### Stick hero game like in the android using :  
+### Stick hero game like in the android using :   
 
 ☑️ - HTML. 
 
