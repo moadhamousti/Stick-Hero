@@ -1,7 +1,7 @@
 Array.prototype.last = function () {  
     return this[this.length - 1]; 
  }; 
- 
+  
  // degrees to radians
  Math.sinus = function (degree) {
     return Math.sin((degree / 180) * Math.PI);
